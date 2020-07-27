@@ -1,2 +1,2 @@
 # GetRfid
-GetRfid main page.
+GetRfid's page.
