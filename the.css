@@ -20,6 +20,11 @@ h1 {
   /**text-transform: lowercase;*/
 }
 
+p {
+  font-size: 1em;
+  font-weight: 550;
+}
+
 svg {
   width: 200px;
   height: 200px;
